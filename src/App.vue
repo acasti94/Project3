@@ -48,7 +48,7 @@ document.getElementById('resetBtn').addEventListener('click', function () {
         <button id="resetBtn">Reset Timer</button>
         <div id="countdownDisplay">Time left: 0</div>
     </div>
-    <script src="script.js"></script>
+    <script src="main.js"></script>
 </body>
 
 
